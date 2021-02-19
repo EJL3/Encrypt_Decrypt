@@ -1,2 +1,3 @@
-# Encrypt_Decrypt
-A 256-bit algorithm made to encode or decode a passkey.
+# Fact
+Using this script u can make a password into cipher(encrypt) to secure sensitive information or gain the cipher code(decrypt).
+the code is made with base64 and tkinter module, base64 is similar to md5 hashing. 
